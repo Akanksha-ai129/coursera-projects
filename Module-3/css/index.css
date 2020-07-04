@@ -1,0 +1,18 @@
+*{
+  font-family: Lucida Console;
+}
+body{
+  background-color:#2eede1;
+
+}
+
+h1{
+  text-align: center;
+}
+#my{
+  text-align: center;
+}
+.jumbotron{
+  padding-top: 10px;
+  text-align: center;
+}
