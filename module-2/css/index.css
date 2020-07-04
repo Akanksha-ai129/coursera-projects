@@ -12,13 +12,13 @@ h1{
   position: relative;
   top:50px;
   text-align: center;
-  color: #ffc458;
+  color: white;
 }
 h4{
   text-align: center;
 }
 
-.outer{
+.box-outer{
   position: relative;
   top:100px;
   width:100%;
